@@ -13,9 +13,15 @@ img {
 }
 
 h1 {
-    padding-left: 630px;
+    padding-left: 715px;
 }
 
-div {
+.unordered-list {
     padding-left: 500px;
+    padding-right: 300px;
+}
+
+.ordered-list{
+    padding-left: 500px;
+    padding-right: 420px;
 }
